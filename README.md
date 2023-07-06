@@ -9,4 +9,6 @@ you can install them by writing pip install in the cmd.
 # controlls
 W, A, S, D keys to move the camera.<br />
 mouse to look around.<br />
-Q, E keys to move the camera up and down.
+Q, E keys to move the camera up and down.<br />
+left mouse button to break or place blocks, depending on what mode your on.<br />
+right mouse button to change mode.
